@@ -1,0 +1,1 @@
+# Intellij-folder-pining-extension
